@@ -1,4 +1,4 @@
-# 📚 CRUD-PGSQL
+## CRUD-PGSQL
 A Node.js CRUD (Create, Read, Update, Delete) API built using PostgreSQL stored procedures and functions
 
 ### BaseURL: 
@@ -13,5 +13,7 @@ http://localhost:3001/api
 
 
 ### Run the project:
+change `.env` then
 
-``` npm run start ```
+- ``` npm install ```
+- ``` npm run start ```
